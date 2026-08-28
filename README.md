@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Hussein 👋
 
-<!--
-**GisHussein/GisHussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Geospatial Data Scientist | GeoAI · Remote Sensing · Deep Learning**
 
-Here are some ideas to get you started:
+Researcher at the Information Systems Department, Faculty of Computers
+and Artificial Intelligence, Helwan University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of geospatial analysis and machine learning,
+with a focus on the **integrity and security of spatial data** — including
+deep learning approaches to detecting manipulated geospatial imagery.
+
+**Currently building**
+- Deep learning pipelines for geospatial forgery detection
+- Automated remote sensing workflows with Google Earth Engine
+
+**Tech**
+`Python` `GeoPandas` `Rasterio` `PyTorch` `Google Earth Engine` `PostGIS` `QGIS`
+
+---
+
+📍 Cairo, Egypt · Open to remote and freelance geospatial work
