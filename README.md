@@ -16,6 +16,6 @@ deep learning approaches to detecting manipulated geospatial imagery.
 **Tech**
 `Python` `GeoPandas` `Rasterio` `PyTorch` `Google Earth Engine` `PostGIS` `QGIS`
 
----
-
+www.linkedin.com/in/hussein-fanjry-abd-moneim-1b6930192
+لهي
 📍 Cairo, Egypt · Open to remote and freelance geospatial work
